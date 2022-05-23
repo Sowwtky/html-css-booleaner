@@ -1,0 +1,50 @@
+/*font family*/
+html {
+    font-family: 'Roboto Slab', serif;
+}
+/*fine font family*/
+/*commons*/
+.testo-piccolo {
+    font-size: 12px;
+}
+.testo-sottolineato {
+    background-color: yellow;
+}
+.margine {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/*inizio bg logo*/
+#bg-logo {
+    background-color: #0088f7;
+}
+/*fine bg logo*/
+/*inizio ridimensionamento logo*/
+#logo {
+    height: 45px;
+}
+/*fine ridimensionamento logo*/
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+/*inizio ridimensionamento e cambio colore font scritto da*/
+h2 {
+    font-size: 15px;
+}
+#scritto-da {
+    color: gray;
+}
+#the-booleaner {
+    color: aqua;
+}
+/*fine ridimensionamento e cambio colore font scritto da*/
+/*colori tabella*/
+thead{
+    background-color: #0088f7;
+}
+
+.bg-lightblue{
+    background-color: lightskyblue;
+}
+/*fine colori tabella*/
