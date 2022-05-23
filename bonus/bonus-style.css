@@ -17,6 +17,11 @@ html {
 /*inizio bg logo*/
 #bg-logo {
     background-color: #0088f7;
+    /*inizio pattern bonus*/
+    background-image: url(bonus-img/pattern.png);
+    background-size: 125px;
+    padding-top: 40px;
+    /*Fine pattern bonus*/
 }
 /*fine bg logo*/
 /*inizio ridimensionamento logo*/
@@ -48,3 +53,27 @@ thead{
     background-color: lightskyblue;
 }
 /*fine colori tabella*/
+
+/*bonus footer*/
+#testo-grigio {
+    color: gray;
+}
+
+#img-bonus-1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    background-image: url(bonus-img/monitor.jpg);
+    width: 270px;
+    height: 200px;
+}
+#img-bonus-2 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    background-image: url(bonus-img/graph.jpg);
+    width: 270px;
+    height: 200px;
+}
