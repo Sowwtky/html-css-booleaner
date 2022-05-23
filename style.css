@@ -30,3 +30,8 @@ h2 {
 .testo-piccolo {
     font-size: 12px;
 }
+/*fine ridimensionamento font data*/
+/*inizio bg testo sottolineato*/
+.testo-sottolineato {
+    background-color: yellow;
+}
