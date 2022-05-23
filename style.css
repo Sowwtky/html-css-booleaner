@@ -1,7 +1,28 @@
-header {
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*inizio bg logo*/
+#bg-logo {
     background-color: rgb(0, 136, 247);
 }
+/*fine bg logo*/
+/*inizio ridimensionamento logo*/
 #logo {
-    height: 27px;
-    
+    height: 70px;
 }
+/*fine ridimensionamento logo*/
+h1 {
+    font-size: 45px;
+    font-weight: 800;
+}
+/*inizio ridimensionamento e cambio colore font scritto da*/
+h2 {
+    font-size: large;
+}
+#scritto-da {
+    color: gray;
+}
+#the-booleaner {
+    color: aqua;
+}
+/*fine ridimensionamento e cambio colore font scritto da*/
